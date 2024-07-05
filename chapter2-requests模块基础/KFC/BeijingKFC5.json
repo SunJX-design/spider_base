@@ -1,0 +1,89 @@
+{
+    "Table": [
+        {
+            "rowcount": 201
+        }
+    ],
+    "Table1": [
+        {
+            "rownum": 41,
+            "storeName": "北京肯德基有限公司古城邮局",
+            "addressDetail": "石景山路52号古城邮局一层",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 42,
+            "storeName": "北京肯德基有限公司长阳五和万科",
+            "addressDetail": "长兴街10号院4号楼1层102",
+            "pro": "24小时",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 43,
+            "storeName": "北京肯德基有限公司苏望路DT",
+            "addressDetail": "郎府大街18号院3号楼1层102室",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 44,
+            "storeName": "北京肯德基有限公司五里坨",
+            "addressDetail": "五里坨路2号",
+            "pro": "24小时,手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 45,
+            "storeName": "北京肯德基有限公司京福路",
+            "addressDetail": "青云店镇大东新村商业46-4号1层",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 46,
+            "storeName": "北京肯德基有限公司芳菲路",
+            "addressDetail": "芳菲路60号院2号楼1层128、130号",
+            "pro": "24小时,手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 47,
+            "storeName": "北京肯德基有限公司兴贸北街",
+            "addressDetail": "兴贸二区28号楼1层04号商铺",
+            "pro": "店内参观,手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 48,
+            "storeName": "北京肯德基有限公司马坡中建",
+            "addressDetail": "乾安路鲲熙里项目1层",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 49,
+            "storeName": "北京肯德基有限公司京通新城",
+            "addressDetail": "管庄京通苑30#楼京通PLUS365项目一层",
+            "pro": "24小时,店内参观,手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 50,
+            "storeName": "北京肯德基有限公司中心北路",
+            "addressDetail": "于家务西里31号楼-1至1层108室",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        }
+    ]
+}

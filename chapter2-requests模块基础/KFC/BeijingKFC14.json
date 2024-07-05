@@ -1,0 +1,89 @@
+{
+    "Table": [
+        {
+            "rowcount": 201
+        }
+    ],
+    "Table1": [
+        {
+            "rownum": 131,
+            "storeName": "北京肯德基有限公司大鲁北路DT ",
+            "addressDetail": "黑庄户乡大鲁店北路1号M1-01号楼一栋101",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 132,
+            "storeName": "北京肯德基有限公司东坝南二街",
+            "addressDetail": "东坝南二街北京东坝万达广场3层",
+            "pro": "点唱机,手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 133,
+            "storeName": "北京肯德基有限公司苑景西一路",
+            "addressDetail": "大兴国际机场航兴路18号院3号楼一层101室",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 134,
+            "storeName": "北京肯德基有限公司北苑龙湖天街",
+            "addressDetail": "北苑东路 19 号院北苑天街A馆-B1-20",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 135,
+            "storeName": "北京肯德基有限公司东坝南二街",
+            "addressDetail": "东坝南二街北京东坝万达广场3层",
+            "pro": "点唱机,手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 136,
+            "storeName": "北京肯德基有限公司北苑龙湖天街",
+            "addressDetail": "北苑东路 19 号院北苑天街A馆-B1-20",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 137,
+            "storeName": "北京肯德基有限公司苑景西一路",
+            "addressDetail": "大兴国际机场航兴路18号院3号楼一层101室",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 138,
+            "storeName": "北京肯德基有限公司合景",
+            "addressDetail": "东关一街2号院1号楼17层1-1701",
+            "pro": "高铁店",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 139,
+            "storeName": "北京肯德基有限公司郭公庄",
+            "addressDetail": "郭公庄中街18号院3号楼1层107、108、109",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 140,
+            "storeName": "北京肯德基有限公司复兴路",
+            "addressDetail": "复兴路69号1号楼地下一层B1-111号，A1-05西南侧",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "Table": [
+        {
+            "rowcount": 201
+        }
+    ],
+    "Table1": [
+        {
+            "rownum": 201,
+            "storeName": "北京肯德基有限公司顺白路",
+            "addressDetail": "前进花园玉兰苑甲1号楼F1-016号铺",
+            "pro": "高铁店",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "Table": [
+        {
+            "rowcount": 201
+        }
+    ],
+    "Table1": [
+        {
+            "rownum": 71,
+            "storeName": "北京肯德基有限公司京北大世界",
+            "addressDetail": "府前街14号",
+            "pro": "24小时,点唱机,店内参观,手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 72,
+            "storeName": "北京师范大学",
+            "addressDetail": "新街口外大街19号学五食堂",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 73,
+            "storeName": "北京肯德基有限公司北花园中路",
+            "addressDetail": "北花园中路 1 号院 9 号楼 1 层 105-2/105-3 /105-4",
+            "pro": "24小时,手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 74,
+            "storeName": "北京师范大学",
+            "addressDetail": "新街口外大街19号学五食堂",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 75,
+            "storeName": "北京肯德基有限公司长沟",
+            "addressDetail": "长沟镇西长沟村门牌号001一层",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 76,
+            "storeName": "北京肯德基有限公司艾迪城",
+            "addressDetail": "安宁街7号院9号楼1层101-5号",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 77,
+            "storeName": "北京肯德基有限公司翠湖万科",
+            "addressDetail": "铃兰路8号院3号楼1层101",
+            "pro": "店内参观,手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 78,
+            "storeName": "北京肯德基有限公司怀柔桥梓",
+            "addressDetail": "桥梓镇八龙桥雅苑2号楼1至4层2-4",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 79,
+            "storeName": "北京肯德基有限公司马连洼北路",
+            "addressDetail": "马连洼北路8号B座105室",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 80,
+            "storeName": "北京肯德基有限公司吕营大街",
+            "addressDetail": "十八里店乡吕家营村餐饮街东侧由北向南第六间一、二层",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        }
+    ]
+}

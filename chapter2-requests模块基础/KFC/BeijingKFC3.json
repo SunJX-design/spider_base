@@ -1,0 +1,89 @@
+{
+    "Table": [
+        {
+            "rowcount": 201
+        }
+    ],
+    "Table1": [
+        {
+            "rownum": 21,
+            "storeName": "北京肯德基有限公司人才大厦",
+            "addressDetail": "丰台东路58号院1号楼1层102号商铺",
+            "pro": "高铁店",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 22,
+            "storeName": "北京肯德基有限公司紫码路餐厅",
+            "addressDetail": "阎村镇乐活家园45号楼一层109号商铺、二层109号商铺、二层108号商铺",
+            "pro": "24小时,Wi-Fi,店内参观",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 23,
+            "storeName": "北京南站九",
+            "addressDetail": "丰台区北京南站高架层东南角",
+            "pro": null,
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 24,
+            "storeName": "北京朝阳站",
+            "addressDetail": "北京朝阳站内二层高架夹层G2-9-1",
+            "pro": "精选店",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 25,
+            "storeName": "北京朝阳站",
+            "addressDetail": "北京朝阳站内二层高架夹层G2-9-1",
+            "pro": "精选店",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 26,
+            "storeName": "红军营",
+            "addressDetail": "来广营北京龙湖蓝海引擎产业园一层【L1-007】",
+            "pro": "Wi-Fi,店内参观,手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 27,
+            "storeName": "红军营",
+            "addressDetail": "来广营北京龙湖蓝海引擎产业园一层【L1-007】",
+            "pro": "Wi-Fi,店内参观,手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 28,
+            "storeName": "大兴国际机场六号",
+            "addressDetail": "北京大兴国际机场航站楼S-BL02-007、008（大兴机场内）",
+            "pro": "Wi-Fi",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 29,
+            "storeName": "大兴国际机场六号",
+            "addressDetail": "北京大兴国际机场航站楼S-BL02-007、008（大兴机场内）",
+            "pro": "Wi-Fi",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 30,
+            "storeName": "金安桥中海",
+            "addressDetail": "02商铺阜石路与北辛安路交汇处东南角的北京金安中海环宇荟地上一层的L101,L1",
+            "pro": "24小时,Wi-Fi,店内参观",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        }
+    ]
+}

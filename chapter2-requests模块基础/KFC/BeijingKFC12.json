@@ -1,0 +1,89 @@
+{
+    "Table": [
+        {
+            "rowcount": 201
+        }
+    ],
+    "Table1": [
+        {
+            "rownum": 111,
+            "storeName": "北京肯德基有限公司渠头",
+            "addressDetail": "永济西里四区14号楼1层110号",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 112,
+            "storeName": "北京肯德基有限公司聚乐汇",
+            "addressDetail": "燕保双桥家园5-119、5-127、5-128",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 113,
+            "storeName": "北京肯德基有限公司青塔西路",
+            "addressDetail": "大成南里二区3号楼A座一层02底商",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 114,
+            "storeName": "北京肯德基有限公司复星国际",
+            "addressDetail": "朝阳北路237号1层106A-2",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 115,
+            "storeName": "北京肯德基有限公司欣雅街",
+            "addressDetail": "欣雅街16号院2号楼1至3层101二层L02-24号",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 116,
+            "storeName": "北京站精选",
+            "addressDetail": "北京火车站候车大厅一层西侧原商务中心",
+            "pro": "24小时,精选店,手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 117,
+            "storeName": "北京肯德基有限公司西什库",
+            "addressDetail": "西什库大街31号院8号楼102室",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 118,
+            "storeName": "北京肯德基有限公司新华侨城",
+            "addressDetail": "金蝉欢乐园2号院甲1号楼一层W-F1-01",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 119,
+            "storeName": "北京肯德基有限公司紫燕中路",
+            "addressDetail": "燕山燕化星城紫燕中路5号5号楼1层1F-002号",
+            "pro": "24小时",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 120,
+            "storeName": "北京肯德基有限公司佑青街",
+            "addressDetail": "佑青街1号院18号楼2单元102-8室",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        }
+    ]
+}

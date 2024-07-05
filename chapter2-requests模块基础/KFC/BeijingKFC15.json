@@ -1,0 +1,89 @@
+{
+    "Table": [
+        {
+            "rowcount": 201
+        }
+    ],
+    "Table1": [
+        {
+            "rownum": 141,
+            "storeName": "北京肯德基有限公司翠园西街",
+            "addressDetail": "翠园西街6号",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 142,
+            "storeName": "北京肯德基有限公司府前街",
+            "addressDetail": "张坊镇南欣街6号-1号一层",
+            "pro": "高铁店",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 143,
+            "storeName": "北京肯德基有限公司北京站广场三",
+            "addressDetail": "北京站进站口东侧前廊bjz-3-7-1",
+            "pro": "高铁店",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 144,
+            "storeName": "北京肯德基有限公司酒仙桥路二号",
+            "addressDetail": "酒仙桥路路甲4号3号楼F137号",
+            "pro": "高铁店",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 145,
+            "storeName": "北京肯德基有限公司望京小街K-coffee",
+            "addressDetail": "望京小街号15号商亭",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 146,
+            "storeName": "北京肯德基有限公司郭公庄",
+            "addressDetail": "郭公庄中街18号院3号楼1层107、108、109",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 147,
+            "storeName": "北京肯德基有限公司复兴路",
+            "addressDetail": "复兴路69号1号楼地下一层B1-111号，A1-05西南侧",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 148,
+            "storeName": "北京肯德基有限公司翠园西街",
+            "addressDetail": "翠园西街6号",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 149,
+            "storeName": "北京肯德基有限公司顺平辅线DT",
+            "addressDetail": "南彩镇南彩段5号105号",
+            "pro": "高铁店",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 150,
+            "storeName": "北京肯德基有限公司燕保百湾家园",
+            "addressDetail": "燕保?百湾家园11号楼底商一层11-10-1、11-11-1号",
+            "pro": "高铁店",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        }
+    ]
+}

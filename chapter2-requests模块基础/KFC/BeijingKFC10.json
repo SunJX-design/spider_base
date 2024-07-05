@@ -1,0 +1,89 @@
+{
+    "Table": [
+        {
+            "rowcount": 201
+        }
+    ],
+    "Table1": [
+        {
+            "rownum": 91,
+            "storeName": "北京肯德基有限公司温阳路",
+            "addressDetail": "北清路160号北分厂家属区50栋1层1-103",
+            "pro": "店内参观,手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 92,
+            "storeName": "北京肯德基有限公司奥体北路",
+            "addressDetail": "安定路5号院20号楼地下一层[B1-12]号",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 93,
+            "storeName": "北京肯德基有限公司上庄",
+            "addressDetail": "上庄镇大街商业楼一层北103",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 94,
+            "storeName": "北京肯德基有限公司新建村",
+            "addressDetail": "温榆河西路新建村20号",
+            "pro": "店内参观,手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 95,
+            "storeName": "北京肯德基有限公司北京站精选5加盟",
+            "addressDetail": "北京站内二层北京站第四候车室门口外侧区域",
+            "pro": null,
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 96,
+            "storeName": "北京肯德基有限公司房山二",
+            "addressDetail": "城关街道城关南路6号16号1层103",
+            "pro": "高铁店,手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 97,
+            "storeName": "北京肯德基有限公司北京站精选加盟",
+            "addressDetail": "北京站（北京火车站候车大厅西侧一层原商务中心）",
+            "pro": null,
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 98,
+            "storeName": "北京肯德基有限公司富力惠兰美居",
+            "addressDetail": "潞苑北里35号楼105及106室",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 99,
+            "storeName": "北京站精选5",
+            "addressDetail": "北京站内二层北京站第四候车室门口外侧区域",
+            "pro": "精选店,手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 100,
+            "storeName": "北京南站十一",
+            "addressDetail": "北京南站到达层西侧第7出站口旁",
+            "pro": "24小时",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        }
+    ]
+}

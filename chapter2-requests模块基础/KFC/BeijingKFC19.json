@@ -1,0 +1,89 @@
+{
+    "Table": [
+        {
+            "rowcount": 201
+        }
+    ],
+    "Table1": [
+        {
+            "rownum": 181,
+            "storeName": "北京肯德基有限公司建外",
+            "addressDetail": "东三环中路39号院24号楼1至2层0103C号",
+            "pro": "高铁店",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 182,
+            "storeName": "北京肯德基有限公司府前街",
+            "addressDetail": "张坊镇南欣街6号-1号一层",
+            "pro": "高铁店",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 183,
+            "storeName": "北京肯德基有限公司北京站广场三",
+            "addressDetail": "北京站进站口东侧前廊bjz-3-7-1",
+            "pro": "高铁店",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 184,
+            "storeName": "北京肯德基有限公司祥礼街",
+            "addressDetail": "礼贤镇敬贤家园中里A区2号楼一层110",
+            "pro": null,
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 185,
+            "storeName": "北京肯德基有限公司南站十三",
+            "addressDetail": "北京南站换乘层东侧BJN-HD19",
+            "pro": "高铁店",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 186,
+            "storeName": "北京肯德基有限公司朝阳北路DT",
+            "addressDetail": "朝阳北路56号B1楼一层1006",
+            "pro": "高铁店",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 187,
+            "storeName": "北京肯德基有限公司顺白路",
+            "addressDetail": "前进花园玉兰苑甲1号楼F1-016号铺",
+            "pro": "高铁店",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 188,
+            "storeName": "北京肯德基有限公司望京小街",
+            "addressDetail": "望京小街号15号商亭",
+            "pro": "高铁店",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 189,
+            "storeName": "北京肯德基有限公司康化路DT",
+            "addressDetail": "十八里店乡西直河村集体土地租赁房项目2210-L10地块3号楼1层101室",
+            "pro": "高铁店",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 190,
+            "storeName": "北京肯德基有限公司黑龙潭路",
+            "addressDetail": "环山村环山商场",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        }
+    ]
+}

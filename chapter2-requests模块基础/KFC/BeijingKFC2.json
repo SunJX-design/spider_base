@@ -1,0 +1,89 @@
+{
+    "Table": [
+        {
+            "rowcount": 201
+        }
+    ],
+    "Table1": [
+        {
+            "rownum": 11,
+            "storeName": "北京站Select",
+            "addressDetail": "北京火车站候车大厅一层西侧原商务中心",
+            "pro": "精选店,礼品卡",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 12,
+            "storeName": "通州北苑华联",
+            "addressDetail": "杨庄北里五十二号天时名苑小区十四号楼北京华联南侧一层",
+            "pro": "Wi-Fi,店内参观,礼品卡",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 13,
+            "storeName": "西环嘉茂",
+            "addressDetail": "北京北站旁 凯德mall负一层",
+            "pro": "Wi-Fi,店内参观,礼品卡",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 14,
+            "storeName": "北京南站三",
+            "addressDetail": "北京南站地下一层南大门内东侧场地快速进站口3与快速进站口4中间",
+            "pro": "礼品卡",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 15,
+            "storeName": "北京南站六",
+            "addressDetail": "北京南站二层旅客出发层西南角（23B检票口）旁",
+            "pro": "礼品卡",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 16,
+            "storeName": "北京站广场二",
+            "addressDetail": "北京站进站口西侧前廊下",
+            "pro": "24小时,礼品卡",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 17,
+            "storeName": "马坡汽车穿梭",
+            "addressDetail": "马坡镇顺城大街29号北京乡村乐园一层",
+            "pro": "Wi-Fi,店内参观,礼品卡",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 18,
+            "storeName": "新城外城DT",
+            "addressDetail": "南四环成寿寺路308号北京城外诚家居广场停车广场",
+            "pro": "24小时,Wi-Fi,店内参观,礼品卡",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 19,
+            "storeName": "大兴龙湖",
+            "addressDetail": "龙湖北京大兴天街商业楼三层3F-10a铺位",
+            "pro": "Wi-Fi,店内参观",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 20,
+            "storeName": "西站南广场二号",
+            "addressDetail": "北京西客站南站房东附楼一层105号铺位、104铺位和二层204铺位",
+            "pro": "Wi-Fi,点唱机",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        }
+    ]
+}

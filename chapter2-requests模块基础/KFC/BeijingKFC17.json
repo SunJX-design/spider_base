@@ -1,0 +1,89 @@
+{
+    "Table": [
+        {
+            "rowcount": 201
+        }
+    ],
+    "Table1": [
+        {
+            "rownum": 161,
+            "storeName": "北京肯德基有限公司燕保百湾家园",
+            "addressDetail": "燕保?百湾家园11号楼底商一层11-10-1、11-11-1号",
+            "pro": "高铁店",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 162,
+            "storeName": "北京肯德基有限公司望京小街K-coffee",
+            "addressDetail": "望京小街号15号商亭",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 163,
+            "storeName": "北京肯德基有限公司顺平辅线DT",
+            "addressDetail": "南彩镇南彩段5号105号",
+            "pro": "高铁店",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 164,
+            "storeName": "北京肯德基有限公司康化路DT",
+            "addressDetail": "十八里店乡西直河村集体土地租赁房项目2210-L10地块3号楼1层101室",
+            "pro": "高铁店",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 165,
+            "storeName": "北京肯德基有限公司望京小街",
+            "addressDetail": "望京小街号15号商亭",
+            "pro": "高铁店",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 166,
+            "storeName": "北京肯德基有限公司南三环东路",
+            "addressDetail": "南三环东路29号E座2号",
+            "pro": "高铁店",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 167,
+            "storeName": "北京肯德基有限公司京塘路",
+            "addressDetail": "漷县镇觅子店金三角谷德玛特超市一层",
+            "pro": "高铁店",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 168,
+            "storeName": "北京肯德基有限公司上地东二路",
+            "addressDetail": "上地佳园43号楼1层43号",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 169,
+            "storeName": "北京肯德基有限公司常惠路",
+            "addressDetail": "常惠路6号楼-1楼110(常营地铁C口)",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 170,
+            "storeName": "北京肯德基有限公司青礼路",
+            "addressDetail": "安定镇青礼路2031号1层",
+            "pro": "高铁店",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        }
+    ]
+}

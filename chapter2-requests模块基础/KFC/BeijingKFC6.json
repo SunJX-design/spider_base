@@ -1,0 +1,89 @@
+{
+    "Table": [
+        {
+            "rowcount": 201
+        }
+    ],
+    "Table1": [
+        {
+            "rownum": 51,
+            "storeName": "北京肯德基有限公司永乐大街",
+            "addressDetail": "永乐大街37号-4号",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 52,
+            "storeName": "北京肯德基有限公司永乐大街",
+            "addressDetail": "永乐大街37号-4号",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 53,
+            "storeName": "北京肯德基有限公司枣园路",
+            "addressDetail": "枣园路26号院1号楼1-11",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 54,
+            "storeName": "北京肯德基有限公司北花园中路",
+            "addressDetail": "北花园中路 1 号院 9 号楼 1 层 105-2/105-3 /105-4",
+            "pro": "24小时,手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 55,
+            "storeName": "北京肯德基有限公司青春路",
+            "addressDetail": "青春路25号",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 56,
+            "storeName": "北京肯德基有限公司金地未未来",
+            "addressDetail": "军营街16号院2号楼101、102",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 57,
+            "storeName": "北京肯德基有限公司槐房西路",
+            "addressDetail": "西红门南一街206号院22号楼1至2层104、105",
+            "pro": "24小时,手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 58,
+            "storeName": "北京肯德基有限公司豆各庄",
+            "addressDetail": "天达路2号院1层",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 59,
+            "storeName": "北京肯德基有限公司怀柔庙城",
+            "addressDetail": "庙城293号院3号楼1至2层114",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 60,
+            "storeName": "北京肯德基有限公司京北大世界",
+            "addressDetail": "府前街14号",
+            "pro": "24小时,点唱机,店内参观,手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        }
+    ]
+}

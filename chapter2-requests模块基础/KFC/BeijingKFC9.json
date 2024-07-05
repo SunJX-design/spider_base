@@ -1,0 +1,89 @@
+{
+    "Table": [
+        {
+            "rowcount": 201
+        }
+    ],
+    "Table1": [
+        {
+            "rownum": 81,
+            "storeName": "北京肯德基有限公司怀柔桥梓",
+            "addressDetail": "桥梓镇八龙桥雅苑2号楼1至4层2-4",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 82,
+            "storeName": "北京肯德基有限公司温阳路",
+            "addressDetail": "北清路160号北分厂家属区50栋1层1-103",
+            "pro": "店内参观,手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 83,
+            "storeName": "北京肯德基有限公司怀柔科学城",
+            "addressDetail": "雁栖经济开发区雁栖大街53号2幢1至2层01-102至02-201铺位",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 84,
+            "storeName": "北京肯德基有限公司奥体北路",
+            "addressDetail": "安定路5号院20号楼地下一层[B1-12]号",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 85,
+            "storeName": "北京肯德基有限公司槐房西路",
+            "addressDetail": "西红门南一街206号院22号楼1至2层104、105",
+            "pro": "24小时,手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 86,
+            "storeName": "北京肯德基有限公司枣园路",
+            "addressDetail": "枣园路26号院1号楼1-11",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 87,
+            "storeName": "北京肯德基有限公司运河湾",
+            "addressDetail": "潞通大街191号1层01-02",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 88,
+            "storeName": "北京肯德基有限公司运河湾",
+            "addressDetail": "潞通大街191号1层01-02",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 89,
+            "storeName": "北京肯德基有限公司艾迪城",
+            "addressDetail": "安宁街7号院9号楼1层101-5号",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 90,
+            "storeName": "北京肯德基有限公司怀柔科学城",
+            "addressDetail": "雁栖经济开发区雁栖大街53号2幢1至2层01-102至02-201铺位",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        }
+    ]
+}

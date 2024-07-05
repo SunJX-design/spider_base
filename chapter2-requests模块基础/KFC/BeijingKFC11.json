@@ -1,0 +1,89 @@
+{
+    "Table": [
+        {
+            "rowcount": 201
+        }
+    ],
+    "Table1": [
+        {
+            "rownum": 101,
+            "storeName": "北京肯德基有限公司首开回龙街",
+            "addressDetail": "龙锦三街甲42号院1号楼一层1001",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 102,
+            "storeName": "北京肯德基有限公司南站十一 加盟",
+            "addressDetail": "北京南站到达层西侧第7出站口旁",
+            "pro": "高铁店",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 103,
+            "storeName": "北京肯德基有限公司太平街",
+            "addressDetail": "太平街甲 6 号 1 层 112-05",
+            "pro": null,
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 104,
+            "storeName": "北京肯德基有限公司双河南巷DT",
+            "addressDetail": "黄村镇双河南巷1号1至4层1层",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 105,
+            "storeName": "北京南站十",
+            "addressDetail": "北京南站高架层B岛北二层G2B01及一层",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 106,
+            "storeName": "北京肯德基有限公司唐家岭",
+            "addressDetail": "西北旺镇唐家岭新城6号商业楼一层109、二层209",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 107,
+            "storeName": "北京肯德基有限公司何各庄西街",
+            "addressDetail": "何各庄西街2号院12号地上一层103、104、105铺位",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 108,
+            "storeName": "北京肯德基有限公司大兴机场二",
+            "addressDetail": "大兴国际机场国际抵港区域",
+            "pro": "24小时,高铁店",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 109,
+            "storeName": "北京肯德基有限公司延庆永宁镇",
+            "addressDetail": "永宁镇城门口红灯西北角北关村商业街A区1号",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 110,
+            "storeName": "北京肯德基有限公司北京南站二加盟",
+            "addressDetail": "北京南站（北京南站候车大厅地下一层快速进站口1）",
+            "pro": "24小时",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        }
+    ]
+}

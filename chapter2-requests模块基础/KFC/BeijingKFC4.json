@@ -1,0 +1,89 @@
+{
+    "Table": [
+        {
+            "rowcount": 201
+        }
+    ],
+    "Table1": [
+        {
+            "rownum": 31,
+            "storeName": "金安桥中海",
+            "addressDetail": "02商铺阜石路与北辛安路交汇处东南角的北京金安中海环宇荟地上一层的L101,L1",
+            "pro": "24小时,Wi-Fi,店内参观",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 32,
+            "storeName": "青年北路",
+            "addressDetail": "平房镇姚家园路与青年北路交叉口西北京姚家园万象汇B110号商铺",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 33,
+            "storeName": "博兴七路",
+            "addressDetail": "北京经济技术开发区鹿海园四里9号楼106室",
+            "pro": "Wi-Fi,店内参观",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 34,
+            "storeName": "青年北路",
+            "addressDetail": "平房镇姚家园路与青年北路交叉口西北京姚家园万象汇B110号商铺",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 35,
+            "storeName": "博兴七路",
+            "addressDetail": "北京经济技术开发区鹿海园四里9号楼106室",
+            "pro": "Wi-Fi,店内参观",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 36,
+            "storeName": "广华新城",
+            "addressDetail": "大郊亭地区的广华新城居住区内的616地块、617地块的（广华新城一期项目）北京广华里一期616B-L106号房屋",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 37,
+            "storeName": "广华新城",
+            "addressDetail": "大郊亭地区的广华新城居住区内的616地块、617地块的（广华新城一期项目）北京广华里一期616B-L106号房屋",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 38,
+            "storeName": "北京肯德基有限公司京周路DT",
+            "addressDetail": "周口店镇周口村村西商业项目一层102平方米、二层160平方米",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 39,
+            "storeName": "北京肯德基有限公司京周路DT",
+            "addressDetail": "周口店镇周口村村西商业项目一层102平方米、二层160平方米",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 40,
+            "storeName": "北京肯德基有限公司古城邮局",
+            "addressDetail": "石景山路52号古城邮局一层",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        }
+    ]
+}

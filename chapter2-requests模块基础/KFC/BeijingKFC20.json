@@ -1,0 +1,89 @@
+{
+    "Table": [
+        {
+            "rowcount": 201
+        }
+    ],
+    "Table1": [
+        {
+            "rownum": 191,
+            "storeName": "北京肯德基有限公司合景",
+            "addressDetail": "东关一街2号院1号楼17层1-1701",
+            "pro": "高铁店",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 192,
+            "storeName": "北京肯德基有限公司旧桥路",
+            "addressDetail": "旧宫桥路1号院2号楼1层105、2层103之2层",
+            "pro": "高铁店",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 193,
+            "storeName": "北京肯德基有限公司黑龙潭路",
+            "addressDetail": "环山村环山商场",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 194,
+            "storeName": "北京肯德基有限公司夕照寺中街",
+            "addressDetail": "夕照寺中街4号1号楼C-1-101",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 195,
+            "storeName": "北京肯德基有限公司顺于路",
+            "addressDetail": "石门街甲6号",
+            "pro": "高铁店",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 196,
+            "storeName": "北京肯德基有限公司朝阳北路DT",
+            "addressDetail": "朝阳北路56号B1楼一层1006",
+            "pro": "高铁店",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 197,
+            "storeName": "北京肯德基有限公司祥礼街",
+            "addressDetail": "礼贤镇敬贤家园中里A区2号楼一层110",
+            "pro": null,
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 198,
+            "storeName": "北京肯德基有限公司南站十三",
+            "addressDetail": "北京南站换乘层东侧BJN-HD19",
+            "pro": "高铁店",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 199,
+            "storeName": "北京肯德基有限公司临泓路",
+            "addressDetail": "临泓路16号院1号楼115、116",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 200,
+            "storeName": "北京南站二",
+            "addressDetail": "北京南站候车大厅地下一层（快速进站口1）部分场地",
+            "pro": "高铁店,手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        }
+    ]
+}

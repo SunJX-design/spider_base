@@ -1,0 +1,89 @@
+{
+    "Table": [
+        {
+            "rowcount": 201
+        }
+    ],
+    "Table1": [
+        {
+            "rownum": 121,
+            "storeName": "北京肯德基有限公司塔营北街",
+            "addressDetail": "塔营北街商业楼1号楼1层12号",
+            "pro": "店内参观,手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 122,
+            "storeName": "北京肯德基有限公司马家堡路DT ",
+            "addressDetail": "马家堡路202号院1号楼1至3层101-2号",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 123,
+            "storeName": "北京站广场二",
+            "addressDetail": "北京站进站口西侧前廊下",
+            "pro": "高铁店,手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 124,
+            "storeName": "北京肯德基有限公司亚运村",
+            "addressDetail": "安慧里二区4号楼一层商铺部分",
+            "pro": "24小时,手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 125,
+            "storeName": "北京肯德基有限公司北京站广场二加盟",
+            "addressDetail": "北京站进站口西侧前廊下",
+            "pro": null,
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 126,
+            "storeName": "北京肯德基有限公司大兴机场5",
+            "addressDetail": "大兴国际机场5层餐饮区（西侧）SAL05-005、006",
+            "pro": "精选店,手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 127,
+            "storeName": "北京肯德基有限公司漷小路",
+            "addressDetail": "永乐店镇恒业二街3号院59号楼一层（8、9、10、11、12商铺）",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 128,
+            "storeName": "北京肯德基有限公司马池口",
+            "addressDetail": "马池口镇北小营村神牛路东100米新世纪商城一层",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 129,
+            "storeName": "北京肯德基有限公司西三旗万象汇",
+            "addressDetail": "西三旗1811-L04地块B4综合性用地B127号商铺",
+            "pro": "手机点餐",
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        },
+        {
+            "rownum": 130,
+            "storeName": "北京肯德基有限公司北京南站五加盟",
+            "addressDetail": "北京南站换乘层7号售票厅",
+            "pro": null,
+            "provinceName": "北京市",
+            "cityName": "北京市"
+        }
+    ]
+}
